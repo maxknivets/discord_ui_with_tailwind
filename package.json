@@ -1,0 +1,21 @@
+{
+  "name": "discord_ui",
+  "version": "1.0.0",
+  "description": "A small updated re-creation of Andre Madarang's Discord UI made in TailwindCSS without using Vue.",
+  "main": "app.js",
+  "dependencies": {
+    "autoprefixer": "^10.0.2",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "postcss": "^8.1.9",
+    "postcss-cli": "^8.3.0",
+    "pug": "^3.0.0",
+    "tailwindcss": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind:css": "postcss public/styles/tailwind.css -o public/styles/style.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
