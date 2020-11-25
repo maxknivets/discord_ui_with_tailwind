@@ -1,10 +1,10 @@
 # Discord UI remade in TailwindCSS
-This is a slightly tweaked version of Discord's UI remade TailwindCSS, originally made by [Andre Madarang](https://github.com/drehimself/tailwind-v1-examples).
+This is a slightly tweaked version of Discord's UI remade in TailwindCSS, originally created by [Andre Madarang](https://github.com/drehimself/tailwind-v1-examples).
 The project uses Node and ExpressJS to statically render the page.
 
 ## Pre-reqs
-* NPM v7
-* Node v11
+* NPM v7 or newer
+* Node v11 or newer
 
 ## Running the project
 1. First install the required modules with `npm i`
