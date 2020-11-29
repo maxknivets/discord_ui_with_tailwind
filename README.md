@@ -13,5 +13,5 @@ The project uses Node and ExpressJS to statically render the page.
 
 Additional thanks to [Catalin Pit](https://medium.com/better-programming/how-to-use-tailwind-css-with-node-js-express-and-pug-8591c47dd54f) for showing how to set up the local server with TailwindCSS.
 
-This is how the project looks like:
-[latest snapshot](https://media.discordapp.net/attachments/744637603026043025/781478991974236170/unknown.png)
+This is how the project currently looks like:
+[latest snapshot](https://cdn.discordapp.com/attachments/744637603026043025/782530233399509022/unknown.png)
